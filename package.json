@@ -1,1 +1,6 @@
-
+{
+  "name": "BattleCatsX",
+  "version": "1.0",
+  "description": "Battle Cats JS Experiments",
+  "main": "index.html"
+}
